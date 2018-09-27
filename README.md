@@ -1,4 +1,6 @@
-# noncesense-research-lab.github.io
+![low_quality_rough_logo_small.png](low_quality_rough_logo_small.png)
+
+# Noncense Research Lab
 Blockchain research through an empirical lens
 
 Hello world Landing page in progress... 
