@@ -33,7 +33,7 @@ NeffmMllon
 Ring signature anomalies related to size and timing 
 
 ### Selfish mining  
-Description and link to [wiki article](https://github.com/Mitchellpkt/monero_archival_project/wiki/Custom-ring-composition-spoils-Monero-fungibility) 
+Description and link to [wiki article](https://github.com/Mitchellpkt/monero_archival_project/wiki/Selfish-mining-at-1636647) 
 
 ### Custom ring composition spoils Monero fungibility
 Description and link to [wiki article](https://github.com/Mitchellpkt/monero_archival_project/wiki/Custom-ring-composition-spoils-Monero-fungibility)
