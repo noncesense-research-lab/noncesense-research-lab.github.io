@@ -12,10 +12,10 @@ Please join us in #noncesense-research-lab on Freenode IRC. Sporadic communicati
 Blockchain research through an empirical lens. Data science approach to analyzing blockchain data and metadata. [expand this] 
 
 ## Code Contributors 
-IsthmusCrypto 
-NeptuneResearch 
-SerHack 
-NeffmMllon 
+-  [IsthmusCrypto](https://github.com/mitchellpkt)
+-  [NeptuneResearch](https://github.com/neptuneresearch)
+-  [SerHack](https://github.com/serhack)
+-  [NeffMallon](https://github.com/neffmallon)
 
 ## Projects 
 ### Monero Archival Project 
@@ -45,9 +45,10 @@ Description and link to [wiki article](https://github.com/Mitchellpkt/monero_arc
 Custom fees can damage privacy, and thus fungibility. The logic for fixed ring sizes transfers to fixed fee options.
 
 ## NRL reading corner 
-(links to good papers, not by us) 
-empirical paper & response 
-clever paper from gingeropolous 
-selfish mining papers 
+*(links to good papers, not by us)*
+-  empirical paper & response 
+-  clever paper from gingeropolous 
+-  selfish mining papers 
 
 ## What else ??
+(finish landing page)
