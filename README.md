@@ -29,7 +29,7 @@ A block's miner selects the value included as its timestamp, so the reported val
 ![image.png](/images/merlin_blocks.png)
 
 ### Selfish mining detection
-Analyses of side chains and reorganization events, combined with node receipt timestamp metadata, enables detection of probable [selfish mining](https://arxiv.org/abs/1311.0243) or [stubborn mining](https://eprint.iacr.org/2015/796.pdf).
+Analyses of alternative chains and reorganization events, combined with node receipt timestamp metadata, enables detection of probable [selfish mining](https://arxiv.org/abs/1311.0243) or [stubborn mining](https://eprint.iacr.org/2015/796.pdf).
 
 One such instance is described in MAP wiki article: [Selfish mining at 1636647](https://github.com/Mitchellpkt/monero_archival_project/wiki/Selfish-mining-at-1636647) 
 
