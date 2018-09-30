@@ -51,7 +51,7 @@ Performed a small study of nodes doubled up on IP addresses. Checked peer lists 
 If you want to see what else we're thinking about, check out the [Monero Archival Project issues](https://github.com/Mitchellpkt/monero_archival_project/issues) and join our [IRC channel](https://www.irccloud.com/invite?channel=%23noncesense-research-lab&hostname=chat.freenode.net&port=6697&ssl=1)
 
 ## NRL reading corner - some classics, and some fresh
-*(links to good papers, not by us)*
+*(links to good papers, not all by us)*
 -  [An Empirical Analysis of Traceability in the Monero Blockchain](https://arxiv.org/pdf/1704.04299.pdf) and the [response from the Monero community](https://getmonero.org/2018/03/29/response-to-an-empirical-analysis-of-traceability.html)
 -  [New kids on the block: an analysis of modern blockchains](https://allquantor.at/blockchainbib/pdf/anderson2016new.pdf)
 -  [Digging into Browser-based Crypto Mining](https://arxiv.org/pdf/1808.00811.pdf)
