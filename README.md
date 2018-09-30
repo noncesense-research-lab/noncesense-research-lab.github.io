@@ -16,7 +16,7 @@ Sporadic communication occurs asynchronously, since our volunteer contributors a
 -  [SerHack](https://github.com/serhack)
 -  [NeffMallon](https://github.com/neffmallon)
 
-Special thanks to the many denizens of #monero-reserach-lab and #noncense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions
+Special thanks to the many denizens of #monero-reserach-lab and #noncesense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions
 
 
 ## Selected Projects & Results
