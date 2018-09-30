@@ -57,6 +57,7 @@ If you want to see what else we're thinking about, check out the [Monero Archiva
 -  [Digging into Browser-based Crypto Mining](https://arxiv.org/pdf/1808.00811.pdf)
 -  [Majority is not Enough: Bitcoin Mining is Vulnerable](https://arxiv.org/abs/1311.0243)
 -  [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack](https://eprint.iacr.org/2015/796.pdf)
+-  [Opportunistic investigation of Monero miners during April 2018 network update](https://hackernoon.com/opportunistic-investigation-of-monero-miners-during-march-2018-network-update-cfd6ad8a027f) *(by IsthmusCrypto)*
 
 ## Secure contact
 
