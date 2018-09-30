@@ -19,7 +19,7 @@ Sporadic communication occurs asynchronously, since our volunteer contributors a
 Special thanks to the many denizens of #monero-reserach-lab and #noncense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions
 
 
-## Projects & Results
+## Selected Projects & Results
 ### Monero Archival Project 
 The [Monero Archival Project](https://github.com/mitchellpkt/monero_archival_project) is a Noncesense endeavor devoted to retaining all blockchain data, including the "lost stories" in orphaned blocks and transactions. This is possible due to our unique data set collected by our [custom archival daemon](https://github.com/neptuneresearch/monerod-archive). Archival nodes run 24/7 on a global network of virtual private servers, capturing a comprehensive realtime view of both obvious and subtle network activity. 
 
@@ -38,16 +38,16 @@ This [wiki article](https://github.com/Mitchellpkt/monero_archival_project/wiki/
 
 ![image.png](images/MyMonero_TEST_41_ring_member.png)
 
-### Node ecosystem observations 
-*(upcoming, collaborators welcome)* Methods are being explored to track enumeration and uptime of Monero nodes, to study the variability and volatility charactistics over multiple timescales. We're also exploring methods for ascertaining adoption rates around software upgrades.
-
 ### Fixed fee options (Bohr fees)
 Custom fee options have the potential to damage privacy, and thus fungibility. Many of the [conceptual reasons for fixed ring sizes](https://github.com/monero-project/monero/issues/4229#issuecomment-415139034) transfer to the questions of fixed fee options. IsthmusCrypto proposes that the network enforces discrete specific options for fee levels. For example, the base fee `B` with units of XMR/kB could be calculated by the normal dynamic fee algorithm, and the sender can adjust the priority by preset multiples, e.g. from `{0.002, 0.25*X, 0.5*X, X, 2*X, 4*X, 8*X}`. This saves space in a transaction since the user can represent their selection with only a single alphanumeric character. There is no room for wallet software mistakes or poor design choices to exhibit different and thus detectable behavior.
 
-### IP bottlenecks - subtle centralization 
+### Node ecosystem observations 
+*(upcoming, collaborators welcome)* Methods are being explored to track enumeration and uptime of Monero nodes, to study the variability and volatility charactistics over multiple timescales. We're also exploring methods for ascertaining adoption rates around software upgrades.
+
+### IP bottlenecks - a subtle centralization 
 Performed a small study of nodes doubled up on IP addresses. Checked peer lists and found duplicates. This is a subtle type of centralization - if 20% of our nodes/miners are showing up over a handful of ProtonVPN addresses, then another DoS on the VPN would have the side effect of knocking a disproportional number of machines off the network.	
 
-### ... and lots more!
+### Stop by for lots more!
 If you want to see what else we're thinking about, check out the [Monero Archival Project issues](https://github.com/Mitchellpkt/monero_archival_project/issues) and join our [IRC channel](https://www.irccloud.com/invite?channel=%23noncesense-research-lab&hostname=chat.freenode.net&port=6697&ssl=1)
 
 ## NRL reading corner - some classics, and some fresh
@@ -59,4 +59,42 @@ If you want to see what else we're thinking about, check out the [Monero Archiva
 -  [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack](https://eprint.iacr.org/2015/796.pdf)
 
 ## Secure contact
-noncesense-research-lab@protonmail.com
+
+[noncesense-research-lab@protonmail.com](mailto:noncesense-research-lab@protonmail.com)
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v3.1.2
+Comment: https://openpgpjs.org
+
+xsBNBFusbQkBCADLfpl13DBKyjEzC0XxM5xAxYKH2jSlGT7ewKVa9KIyM76z
+pydj5TkZCOrmgs/m26ffOOZ8/RV0FEylQ4B+Cu3QnYS90mI/XXQnPev18Pk2
+MsEN2maXjXIMdj0QWB8Am3JBlb63oQKOGsvaXdJW891o7httTXQFfY0vhSiL
+ytpIqki64XXqYAcq1mPHXFRgURBCeOokRn19aRVWUsD4PNqbEifWMPIcWnq1
+V3EO58QFCO4lZIP9JRVTQGELZnFRFrCEbFa9vVbDb5L+sSuVcxGIP/QFfiB5
+U3FHxvEk02sicbGLk+9hEguCcM2c9fYQ7Dp8nwhis3Q6BwJvQyWp3iH1ABEB
+AAHNUSJub25jZXNlbnNlLXJlc2VhcmNoLWxhYkBwcm90b25tYWlsLmNvbSIg
+PG5vbmNlc2Vuc2UtcmVzZWFyY2gtbGFiQHByb3Rvbm1haWwuY29tPsLAdQQQ
+AQgAKQUCW6xtCQYLCQcIAwIJEKWDEBOfci8VBBUICgIDFgIBAhkBAhsDAh4B
+AACSvgf/TR2+/FhFyzrDTsI8yI61SPkLPoCm5+QK0NtcP1w815lQHj/YVt6K
+9v1wQt1Q669yQxa8cvwlZAMTCoQ1Shykw1mZ7xKrQbpykoWfWyZKoVNak+tR
+ZjEj9qruKvpeyOIYDZWIANfgL118JLliq7GgFtTo1CnJcJFgOahQNAAt2veR
++LVlUJybjr/1aVaI1nlgKr9xEXUSTcl72g1v77CO/LYgMo0tJA1Xj5YGPUMR
+KJQh0yMAT2LgAtRLqG3uSS5WgC0WKY60vMW/ZTmIs8gFKqa00OjRWJzX/Ldz
+oqpYcuZmqHOh8XoPyiy/lUE12xQb/9S+vtX669Hz8cwtsgRRy87ATQRbrG0J
+AQgA5+NJijhjy+oXtO1Cmqrui8oY7H7USjnh6SbO+XzgfVN35XbDEINBwwpX
+cnTe3cZ7C1nO4JuvNyuSGqaYYOEYzPFYOVgdbV9qqQv0zt04KvRoMEwA7gil
+pTkf9SCFjQqe1XtH3sjTWqcCXPSLpGYSM6ROR1G3r2W6aj13MsPrfrJ6MoMn
+twl+sd1CdhB/mc2SPQsMpK+8OcqJHx4HB89tkyRMTOWH1Wv2bSeJkPBT45s6
+9OxOk3LsBAfFl11TUTu4s48yNt4osCTJJfGQ2n/4lM3eIxCkHZ8WTs/Mpq0U
+FGM9A0EkAS4JMSQcduIkcOc1Az+Le21rl+wVCHTXIV22CwARAQABwsBfBBgB
+CAATBQJbrG0JCRClgxATn3IvFQIbDAAAu94H+gLJ1G2SADrD+YMCY3BGcTYS
+pPZAajNEzYtP73h46dBxm5Kr7hSsHU2J+1gc94mMSM+U3V3PauKl9ow8nMhB
+gNeq98i+n1QE3Pdk3faLdSqL1MuaS9tfnSi6BNHdcebWMvIyu62ydOjbmiXR
+se8gmwpxV5uuAZPipq4KaEMHw2wFSxtSlDZJmmL2r+yZ65ImykKmNXR1OlbX
+VyJOk9KieS8pYOTEW/aoD8Bl/Kqh3kog+nAD9Ozo99naBw3r8S8l0RSFqnJk
+l/dYYAD8EqfLf/mczCdWu/ZfxVW9HAyCmqIafvf0hTSEsVGVDSl1/waTx8Um
+HEFdx8XmoZVhMkrekxU=
+=+Okj
+-----END PGP PUBLIC KEY BLOCK-----
+```
