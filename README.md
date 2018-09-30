@@ -21,7 +21,7 @@ Special thanks to the many denizens of #monero-reserach-lab and #noncense-resear
 
 ## Selected Projects & Results
 ### Monero Archival Project 
-The [Monero Archival Project](https://github.com/mitchellpkt/monero_archival_project) is a Noncesense endeavor devoted to retaining all blockchain data, including the "lost stories" in orphaned blocks and transactions. This is possible due to our unique data set collected by our [custom archival daemon](https://github.com/neptuneresearch/monerod-archive). Archival nodes run 24/7 on a global network of virtual private servers, capturing a comprehensive realtime view of both obvious and subtle network activity. 
+The [Monero Archival Project](https://github.com/mitchellpkt/monero_archival_project) is a Noncesense endeavor devoted to retaining all blockchain data, including the "lost stories" in orphaned blocks and transactions. This is possible due to our unique data set collected by our [custom archival daemon](https://github.com/neptuneresearch/monerod-archive). Archival nodes run 24/7 on a global network of virtual private servers, capturing a comprehensive realtime view of both obvious and subtle network activity. A live interface ([repo](https://github.com/neptuneresearch/monero-archive-monitor)) interacts with the daemon database to provide real-time visualizations.
 
 ###  Miner-reported timestamps are "nonsense!"
 A block's miner selects the value included as its timestamp, so the reported value does not always reflect reality. MAP's archival nodes keep track of the time of actual receipt, to study timestamp spoofing, along with network latency and topology. Interestingly, the nodes often receive blocks that are timestamped from the future. Investigation of this phenomenon led to the observation of "Merlin" blocks, where the timestamp in a block precedes the timestamp in the previous block (e.g. block [1607957](https://moneroexplorer.com/search?value=1607957) and block [1607958](https://moneroexplorer.com/search?value=1607958), with respective timestamps 1728h and 1723h). Approximately 2% of Monero blocks exhibit this odd behavior. Consider the implications of the tight distribution around -400 seconds, echoing the typical distribution.
@@ -29,7 +29,7 @@ A block's miner selects the value included as its timestamp, so the reported val
 ![image.png](/images/merlin_blocks.png)
 
 ### Selfish mining detection
-Analyses of side chains and reorganization events, combined with node receipt timestamp metadata, enables detection of probable [selfish mining](https://arxiv.org/abs/1311.0243) or [stubborn mining](https://eprint.iacr.org/2015/796.pdf). A
+Analyses of side chains and reorganization events, combined with node receipt timestamp metadata, enables detection of probable [selfish mining](https://arxiv.org/abs/1311.0243) or [stubborn mining](https://eprint.iacr.org/2015/796.pdf).
 
 One such instance is described in MAP wiki article: [Selfish mining at 1636647](https://github.com/Mitchellpkt/monero_archival_project/wiki/Selfish-mining-at-1636647) 
 
