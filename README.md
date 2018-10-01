@@ -75,7 +75,7 @@ View key: `e05d5d432b84acd628d5faf18291188315cd71ae0f9beef96c6a73667f4ba104`
 
 This is currently an informal donation process. While (value of donations) < (cost of servers), all donations will be directed toward VPS expenses. In the event that donations exceed expenses, appropriate uses will be discussed in #Noncesense-Research-Lab. The archival nodes generate more data than we can effectively store currently, so storage space and pipelines are the next likely candidate. Chime in if you would like to make a donation toward a specific subproject/expense.
 
-*Disclaimer: the donation wallet is currently managed by one individual behalf of Noncense Research Lab. As the lab or donations scale, a more formal solution will be implemented - for example, a multi-sig wallet or Monero FFS.*
+*Disclaimer: the donation wallet is currently managed by one individual, on the behalf of Noncesense Research Lab. As the lab or donations scale, a more formal solution will be implemented - for example, a multi-sig wallet or Monero FFS.*
 
 ## Secure contact
 [noncesense-research-lab@protonmail.com](mailto:noncesense-research-lab@protonmail.com)
