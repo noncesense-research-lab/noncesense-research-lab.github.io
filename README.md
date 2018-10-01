@@ -59,8 +59,25 @@ If you want to see what else we're thinking about, check out the [Monero Archiva
 -  [Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack](https://eprint.iacr.org/2015/796.pdf)
 -  [Opportunistic investigation of Monero miners during April 2018 network update](https://hackernoon.com/opportunistic-investigation-of-monero-miners-during-march-2018-network-update-cfd6ad8a027f) *(by IsthmusCrypto)*
 
-## Secure contact
+## Donations
+### Noncense/MAP infrastructure costs
+The global network of virtual private servers hosting custom archival daemons and research nodes is crucial for capturing a continuous, comprehensive, and representative view of the Monero ecosystem. These servers incur monthly costs around 60 - 100 EUR. The base MAP network nodes run 24/7/365, and additional temporary servers are spun up for specific experiments (and deleted when unneeded, to keep costs as low as possible). 
 
+Noncense Research Lab is a not-for-profit ad hoc collective of volunteers producing FOSS tools and analyses for general public use. Right now, all infrastructure costs are supported out-of-pocket by individual contributors, who would greatly appreciate additional support in bearing these expenses.
+
+### Address
+Donations to help keep the lights on can be sent to `48GtemxMdbdaSvjCqWA4sJY3L4QUwEpUs2Rka5Rpu8yz9Sg5wpjbHsBSUviz44prcgiPXpHxeaFjHYCq824VjLtM19HjWGv` 
+
+![48GtemxMdbdaSvjCqWA4sJY3L4QUwEpUs2Rka5Rpu8yz9Sg5wpjbHsBSUviz44prcgiPXpHxeaFjHYCq824VjLtM19HjWGv QR code](/images/NRL_donations_4a72.png)
+
+### Transparency
+View key: `e05d5d432b84acd628d5faf18291188315cd71ae0f9beef96c6a73667f4ba104`
+
+This is currently an informal donation process. While (value of donations) < (cost of servers), all donations will be directed toward VPS expenses. In the event that donations exceed expenses, appropriate uses will be discussed in #Noncesense-Research-Lab. The archival nodes generate more data than we can effectively store currently, so storage space and pipelines are the next likely candidate. Chime in if you would like to make a donation toward a specific subproject/expense.
+
+*Disclaimer: the donation wallet is currently managed by one individual behalf of Noncense Research Lab. As the lab or donations scale, a more formal solution will be implemented - for example, a multi-sig wallet or Monero FFS.*
+
+## Secure contact
 [noncesense-research-lab@protonmail.com](mailto:noncesense-research-lab@protonmail.com)
 
 ```
