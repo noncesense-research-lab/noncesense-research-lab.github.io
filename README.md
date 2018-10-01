@@ -60,10 +60,10 @@ If you want to see what else we're thinking about, check out the [Monero Archiva
 -  [Opportunistic investigation of Monero miners during April 2018 network update](https://hackernoon.com/opportunistic-investigation-of-monero-miners-during-march-2018-network-update-cfd6ad8a027f) *(by IsthmusCrypto)*
 
 ## Donations
-### Noncense/MAP infrastructure costs
+### Noncesense/MAP infrastructure costs
 The global network of virtual private servers hosting custom archival daemons and research nodes is crucial for capturing a continuous, comprehensive, and representative view of the Monero ecosystem. These servers incur monthly costs around 60 - 100 EUR. The base MAP network nodes run 24/7/365, and additional temporary servers are spun up for specific experiments (and deleted when unneeded, to keep costs as low as possible). 
 
-Noncense Research Lab is a not-for-profit ad hoc collective of volunteers producing FOSS tools and analyses for general public use. Right now, all infrastructure costs are supported out-of-pocket by individual contributors, who would greatly appreciate additional support in bearing these expenses.
+Noncesense Research Lab is a not-for-profit ad hoc collective of volunteers producing FOSS tools and analyses for general public use. Right now, all infrastructure costs are supported out-of-pocket by individual contributors, who would greatly appreciate additional support in bearing these expenses.
 
 ### Address
 Donations to help keep the lights on can be sent to `48GtemxMdbdaSvjCqWA4sJY3L4QUwEpUs2Rka5Rpu8yz9Sg5wpjbHsBSUviz44prcgiPXpHxeaFjHYCq824VjLtM19HjWGv` 
