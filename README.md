@@ -10,11 +10,13 @@ Much of our R & D discussions occur in [#noncesense-research-lab](https://www.ir
 
 Sporadic communication occurs asynchronously, since our volunteer contributors are distributed across multiple continents. Many members use IRCcloud to continue receiving messages even when their devices are offline. 
 
-## Code Contributors 
+## Code/Infrastructure Contributors 
+*(alphabetical by handle)*
+-  [Gingeropolous](https://github.com/gingeropolous)
 -  [IsthmusCrypto](https://github.com/mitchellpkt)
+-  [NeffMallon](https://github.com/neffmallon)
 -  [NeptuneResearch](https://github.com/neptuneresearch)
 -  [SerHack](https://github.com/serhack)
--  [NeffMallon](https://github.com/neffmallon)
 
 Special thanks to the many denizens of #monero-reserach-lab and #noncesense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions
 
