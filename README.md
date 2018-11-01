@@ -1,4 +1,4 @@
-![logo2.png](logo2.png)
+![logo2_small.png](logo2_small.png)
 
 ## About us
 Noncesense Research Lab builds tools and analyses to study blockchain systems from an empirical data science perspective. Distributed consensus systems produce large amounts of canon data (e.g. number of transactions in a given block) along with oceans of ephemeral metadata - connection patterns, broadcast timestamps, data size, orphaned/alternative chains, etc. 
