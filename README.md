@@ -13,7 +13,7 @@ Sporadic communication occurs asynchronously, since our volunteer contributors a
 ## Code/Infrastructure Contributors 
 *(alphabetical by handle)*
 -  [Gingeropolous](https://github.com/gingeropolous)
--  [IsthmusCrypto](https://github.com/mitchellpkt)
+-  [Isthmus](https://github.com/mitchellpkt)
 -  [NeffMallon](https://github.com/neffmallon)
 -  [NeptuneResearch](https://github.com/neptuneresearch)
 -  [SerHack](https://github.com/serhack)
