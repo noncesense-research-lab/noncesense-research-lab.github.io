@@ -17,6 +17,7 @@ Sporadic communication occurs asynchronously, since our volunteer contributors a
 -  [NeffMallon](https://github.com/neffmallon)
 -  [NeptuneResearch](https://github.com/neptuneresearch)
 -  [SerHack](https://github.com/serhack)
+-  [Xiphon](https://github.com/xiphon)
 
 Special thanks to the many denizens of #monero-reserach-lab and #noncesense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions
 
