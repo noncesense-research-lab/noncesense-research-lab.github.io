@@ -12,6 +12,7 @@ Sporadic communication occurs asynchronously, since our volunteer contributors a
 
 ## Code/Infrastructure Contributors 
 *(alphabetical by handle)*
+-  [Chron0](https://github.com/chron0)
 -  [Gingeropolous](https://github.com/gingeropolous)
 -  [Isthmus](https://github.com/mitchellpkt)
 -  [NeffMallon](https://github.com/neffmallon)
@@ -19,7 +20,9 @@ Sporadic communication occurs asynchronously, since our volunteer contributors a
 -  [SerHack](https://github.com/serhack)
 -  [Xiphon](https://github.com/xiphon)
 
-Special thanks to the many denizens of #monero-reserach-lab and #noncesense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions
+Special thanks to the many denizens of #monero-reserach-lab and #noncesense-research-lab that have shared their ideas, experience, and perspectives during fascinating discussions.
+
+Noncesense Research Lab gratefully acknowledges support from JetBrains for the [free open source license](https://www.jetbrains.com/buy/opensource/) package to enable our research and development.
 
 
 ## Selected Projects & Results
